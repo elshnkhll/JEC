@@ -12,3 +12,6 @@ Other components:
 - Speaker 
 - LED strip
 - QI wireless charging module
+
+
+![Battery Discharge curve](batery_charge_levels_100h.png)

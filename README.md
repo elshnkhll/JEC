@@ -1,4 +1,4 @@
-## PHP powered clock projetc
+## PHP Internet Clock Projetc
 
 Links to manufaturers of components:
 

@@ -10,9 +10,9 @@ Project Box: https://www.hammfg.com/part/1591ATCL
 
 Other components:
 
-- LiPO Battery
-- Speaker 
-- LED strip
+- Battery: 3.7V,4000mAH 104080 Li-ion
+- Speaker: 8Ω 1W 25x16x6.4mm
+- LEDs: 7pcs SMD 0402 blue 
 - QI wireless charging module
 
 

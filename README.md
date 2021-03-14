@@ -16,4 +16,11 @@ Other components:
 - QI wireless charging module
 
 
+#Future plans to add:
+
+- external WiFi antenna
+- speaker vol control
+- on/off switch
+
+
 ![Battery Discharge curve](batery_charge_levels_100h.png)

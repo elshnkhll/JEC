@@ -22,9 +22,10 @@ Other components:
 - on/off switch
 
 
-![Battery Discharge curve](batery_charge_levels_100h.png)
+### Battery Discharge curve
 
+[<img src="batery_charge_levels_100h.png" width="70%" height="70%">](batery_charge_levels_100h.png)
 
 ### Back side of the module
 
-[<img src="T5_V2.2.png" width="80%" height="80%">](T5_V2.2.png)
+[<img src="T5_V2.2.png" width="70%" height="70%">](T5_V2.2.png)

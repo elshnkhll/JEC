@@ -22,7 +22,7 @@ Other components:
 - on/off switch
 
 
-![Battery Discharge curve](batery_charge_levels_100h.png | width=100)
+![Battery Discharge curve](batery_charge_levels_100h.png)
 
 
 ### Back side of the module

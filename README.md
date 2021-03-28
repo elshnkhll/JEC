@@ -27,8 +27,4 @@ Other components:
 
 ### Back side of the module
 
-![Back side of the module](T5_V2.2.png)
-
-zz
-
-[<img src="T5_V2.2.png" width="32" height="32">](T5_V2.2.png)
+[<img src="T5_V2.2.png" width="80%" height="80%">](T5_V2.2.png)

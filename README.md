@@ -24,3 +24,9 @@ Other components:
 
 
 ![Battery Discharge curve](batery_charge_levels_100h.png)
+
+
+#Back side of the module
+
+![Back side of the module](T5_V2.2.png)
+

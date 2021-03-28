@@ -15,8 +15,7 @@ Other components:
 - LEDs: 7pcs SMD 0402 blue 
 - QI wireless charging module
 
-
-#Future plans to add:
+# Future plans to add:
 
 - external WiFi antenna
 - speaker vol control
@@ -26,7 +25,7 @@ Other components:
 ![Battery Discharge curve](batery_charge_levels_100h.png)
 
 
-#Back side of the module
+# Back side of the module
 
 ![Back side of the module](T5_V2.2.png)
 

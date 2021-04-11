@@ -4,7 +4,8 @@ Links to manufaturers of components:
 
 Main module: http://www.lilygo.cn/prod_view.aspx?TypeId=50031&Id=1146&FId=t3:50031:3
 
-EP Display: https://www.good-display.com/product/360.html
+EP Display GDEM029T94: https://www.good-display.com/product/201.html
+or GDEH029A1(EOL): https://www.good-display.com/product/360.html
 
 Project Box: https://www.hammfg.com/part/1591ATCL
 
@@ -12,7 +13,7 @@ Other components:
 
 - Battery: 3.7V,4000mAH 104080 Li-ion
 - Speaker: 8Ω 1W 25x16x6.4mm
-- LEDs: 7pcs SMD 0402 blue 
+- LEDs: 7pcs SMD 0402 
 - QI wireless charging (receiver) module
 
 ### Future plans to add:

@@ -27,8 +27,13 @@ Other components:
 
 [<img src="batery_charge_levels_100h.png" width="70%" height="70%">](batery_charge_levels_100h.png)
 
+### Driver 
+
+You can connect it to the PC using the USB data cable. If device driver does not install automatically, you can download driver for the USB to serial converter chip from this site: https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
 ### Back side of the module
 
 [<img src="T5_V2.2.png" width="70%" height="70%">](T5_V2.2.png)
+
 
 [<img width="64px" src="https://www.robocallz.com/app75/images/recorder_icon_150x150.png">](https://robocallz.com)

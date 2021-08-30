@@ -4,7 +4,7 @@
 
   //handle request
   $city = 'Toronto'; // @$_GET['city'];
-  $api_key = '5b44e83a6261ace35d5d006a60fbdd98';
+  $api_key = '1234567890123456789012345678901234567890';
   $response = file_get_contents("http://api.openweathermap.org/data/2.5/forecast?q=$city&appid=$api_key&units=imperial");
   try {
 	  

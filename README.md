@@ -2,7 +2,7 @@
 
 Links to manufaturers of components:
 
-Main module: http://www.lilygo.cn/prod_view.aspx?TypeId=50031&Id=1146&FId=t3:50031:3
+Main module: http://www.lilygo.cn/prod_view.aspx?TypeId=50061&Id=1397&FId=t3:50061:3
 
 EP Display GDEM029T94: https://www.good-display.com/product/201.html
 or GDEH029A1(EOL): https://www.good-display.com/product/360.html

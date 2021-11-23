@@ -13,7 +13,7 @@ Other components:
 
 - Battery: 3.7V, 4000mAH 104080 Li-ion
 - Speaker: 8Ω 1W 25x16x6.4mm
-- LEDs: 7pcs SMD 0402 
+- LEDs: 10pcs 3.2V SMD 0603 color LEDs
 - QI wireless charging (receiver) module
 
 ### Future plans to add:

@@ -1,7 +1,7 @@
 <?php
 
 /* 
-TEST URL: http://robocallz.com/app75/?q=c_29&mode=debug&frm=1&tz=Asia/Hong_Kong&vlt=1400
+TEST URL: http://robocallz.com/?q=c_29&mode=debug&frm=1&tz=Asia/Hong_Kong&vlt=1400
 AVILABLE $_GET keys:
     ['tz']   => America/Toronto - time zone
     ['btn']  => 36 means first request after reset button

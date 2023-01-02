@@ -7,7 +7,7 @@ Main module: http://www.lilygo.cn/prod_view.aspx?TypeId=50061&Id=1397&FId=t3:500
 EP Display GDEM029T94: https://www.good-display.com/product/201.html
 or GDEH029A1(EOL): https://www.good-display.com/product/360.html
 
-Project Box: https://www.hammfg.com/part/1591ATCL
+Project Box: https://www.hammfg.com/part/1591ATCL or try to 3D priiint this one (untested) https://www.thingiverse.com/thing:5372149
 
 Other components:
 
